@@ -1,4 +1,4 @@
-package com.example.kotlin
+package com.example.ckotin
 
 class Programmer(val name: String,
                  var age: Int,

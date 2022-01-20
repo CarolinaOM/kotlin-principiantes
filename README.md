@@ -1,8 +1,8 @@
-# Kotilin para principiantes
+# 👨‍💻 Kotilin para principiantes
 
 <p>
 
-En este archivo se podra ver el uso de kotlin en ejercicios sencillos
+En este preoyecto se podra ver el uso de kotlin en ejercicios sencillos
 
 
 </p>
